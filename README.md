@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shaileshyadav1808/shaileshyadav1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shailesh Yadav, a Computer Science graduate passionate about software testing, frontend development, and IoT systems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my skills in Selenium and React.js.
+- 🌱 I’m learning advanced IoT concepts and backend development.
+- 👯 I’m looking to collaborate on open-source projects related to automation and web development.
+- 💬 Ask me about software testing, IoT, or frontend development.
+- 📫 How to reach me: [Your Email] or [LinkedIn Profile].
+- ⚡ Fun fact: I built an IoT-based Smart Irrigation System that reduced water consumption by 30%!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Testing**: Selenium, Lambda Testing, Bug Reporting
+- **Web Development**: HTML, CSS, JavaScript, React.js
+- **IoT**: Arduino, Blynk Platform
+- **Programming**: Python, Java, C
+
+## Projects
+- [Smart Irrigation System](https://github.com/yourusername/smart-irrigation)
+- [Car Rental Website](https://github.com/yourusername/car-rental)
+
+## Certifications
+- Software Testing with Selenium (Coursera)
+- IoT Development Certification (Tech Light)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
